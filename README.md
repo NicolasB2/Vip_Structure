@@ -1,1 +1,1 @@
-# vip_project_structure
+# vip project structure
