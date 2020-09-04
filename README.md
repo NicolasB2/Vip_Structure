@@ -1,1 +1,1 @@
-# vip project structure
+# Vip Project Structure
